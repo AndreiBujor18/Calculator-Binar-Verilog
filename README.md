@@ -87,6 +87,11 @@ Proiectul include și un testbench, Binary_Calculator_tb, care verifică funcți
 ![screenshot](Screenshot1.png)
 ![screenshot](Screenshot2.png)
 ![screenshot](Screenshot3.png)
+![screenshot](Screenshot4.png)
+![screenshot](Screenshot5.png)
+![screenshot](Screenshot6.png)
+![screenshot](Screenshot7.png)
+![screenshot](Screenshot8.png)
 
 ## Autor
 
