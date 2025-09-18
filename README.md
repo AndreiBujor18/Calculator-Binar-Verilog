@@ -92,7 +92,6 @@ Proiectul include și un testbench, Binary_Calculator_tb, care verifică funcți
 ![screenshot](Screenshot6.png)
 ![screenshot](Screenshot7.png)
 ![screenshot](Screenshot8.png)
-
 ## Autor
 
 - Andrei Bujor
