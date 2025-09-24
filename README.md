@@ -14,6 +14,8 @@ Acest proiect implementează un calculator binar în Verilog, format din mai mul
 
 Proiectul include și un testbench, Binary_Calculator_tb, care verifică funcționalitatea tuturor componentelor prin scenarii de test, precum operații ALU, acces la memorie, transfer serial, etc.
 
+![screenshot](Screenshot9.png)
+
 ## Funcționalități implementate
 
 ### ALU
